@@ -1,0 +1,13 @@
+name: ESM_244_Shiny_App
+title: ESM_244_Shiny_App
+username:
+account: zarennie
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8599669
+bundleId: 7041304
+url: https://zarennie.shinyapps.io/ESM_244_Shiny_App/
+when: 1680497781.59082
+lastSyncTime: 1680497781.59084
+asMultiple: FALSE
+asStatic: FALSE
